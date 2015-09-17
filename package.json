@@ -1,7 +1,7 @@
 {
   "name": "eyeglass-inline-urlescape",
-  "version": "0.0.0",
-  "description": "Sass eyeglass module for escaping urls used inline.",
+  "version": "0.0.1",
+  "description": "Sass eyeglass module for URL-escaping strings",
   "license": "MIT",
   "repository": "strarsis/eyeglass-inline-urlescape",
   "author": {
