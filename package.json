@@ -19,6 +19,6 @@
   "main": "eyeglass-exports.js",
   "dependencies": {
     "eyeglass": "*",
-    "inline-urlescape": "file:../inline-urlescape"
+    "inline-urlescape": "0.0.6"
   }
 }

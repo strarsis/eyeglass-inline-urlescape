@@ -1,0 +1,3 @@
+@function inline-urlescape($str) {
+  @return _inline-urlescape($str);
+}
