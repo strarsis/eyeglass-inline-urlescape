@@ -1,7 +1,7 @@
 {
   "name": "eyeglass-inline-urlescape",
   "description": "Sass eyeglass module for URL-escaping strings",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "strarsis",
     "email": "strarsis@gmail.com",
