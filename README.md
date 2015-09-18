@@ -5,7 +5,9 @@ Sass eyeglass module for URL-escaping strings
 SVG files / background image
 -----------------------------
 The [eyeglass-inline-svg](https://github.com/strarsis/eyeglass-inline-svg) module provides helpers to directly inline SVG files, you may want to use it instead.
-
+<br>
+<br>
+<br>
 
 
 Installation
