@@ -2,6 +2,12 @@
 Sass eyeglass module for URL-escaping strings
 
 
+SVG files / background image
+-----------------------------
+The [eyeglass-inline-svg](https://github.com/strarsis/eyeglass-inline-svg) module provides helpers to directly inline SVG files, you may want to use it instead.
+
+
+
 Installation
 ------------
 ````
@@ -23,9 +29,3 @@ Arguments
 ---------
 ### input string
 String to URL-escape.
-
-
-SVG files / background image
-------------
-An SVG file string can be URL-escaped using this module to be used as data URI in a background image declaration.
-The eyeglass-inline-svg module contains additional helper for convenience.
