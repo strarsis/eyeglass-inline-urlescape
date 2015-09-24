@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "eyeglass": "*",
-    "inline-urlescape": "0.0.6"
+    "inline-urlescape": "^0.1.0"
   }
 }
