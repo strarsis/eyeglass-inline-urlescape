@@ -10,6 +10,9 @@ The [eyeglass-inline-svg](https://github.com/strarsis/eyeglass-inline-svg) modul
 <br>
 
 
+[![NPM](https://nodei.co/npm/eyeglass-inline-urlescape.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/eyeglass-inline-urlescape/)
+
+
 Installation
 ------------
 ````
