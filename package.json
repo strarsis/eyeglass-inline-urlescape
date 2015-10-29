@@ -25,12 +25,14 @@
     "svg"
   ],
   "eyeglass": {
-    "needs": "^0.6.2",
+    "needs": "^0.6.4",
     "name": "inline-urlescape",
     "exports": "eyeglass-exports.js"
   },
   "dependencies": {
-    "eyeglass": "*",
     "inline-urlescape": "^0.1.0"
+  },
+  "devDependencies": {
+    "eyeglass": "^0.6.4"
   }
 }
