@@ -1,6 +1,8 @@
 # eyeglass-inline-urlescape
 Sass eyeglass module for URL-escaping strings
 
+[![david](https://david-dm.org/strarsis/eyeglass-inline-urlescape.svg)](https://david-dm.org/strarsis/eyeglass-inline-urlescape)
+
 [![NPM](https://nodei.co/npm/eyeglass-inline-urlescape.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/eyeglass-inline-urlescape/)
 
 SVG files / background image
