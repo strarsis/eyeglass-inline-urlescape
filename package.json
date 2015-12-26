@@ -25,7 +25,7 @@
     "svg"
   ],
   "eyeglass": {
-    "needs": "^0.7.1",
+    "needs": "^0.8.0",
     "name": "inline-urlescape",
     "exports": "eyeglass-exports.js"
   },
