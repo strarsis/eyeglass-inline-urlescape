@@ -33,6 +33,6 @@
     "inline-urlescape": "^0.2.0"
   },
   "devDependencies": {
-    "eyeglass": "^0.7.1"
+    "eyeglass": "^0.8.0"
   }
 }
